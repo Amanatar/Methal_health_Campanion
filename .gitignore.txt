@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Local env/secrets
+.env
+.streamlit/secrets.toml
+
+# Logs
+*.log
